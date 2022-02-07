@@ -38,7 +38,7 @@
     background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), var(--thirdDiv-image);
     background-size: 100% 100%;
     background-attachment: fixed;
-    border-radius: 10%;
+    /* border-radius: 10%; */
 }
 .firstdiv h2,
 .seconddiv h2,
